@@ -14,7 +14,6 @@ a name and be able to meow. In other words, I should be able to do:
 
 ```ruby
 maru = Cat.new
-<br />
 maru.name = "Maru"
 
 maru.name
